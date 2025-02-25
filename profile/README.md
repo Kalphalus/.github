@@ -4,4 +4,4 @@
   <h1>Kalphalus</h1>
 </div>
 
-Kalphalus is a WiP Tech Startup run by [@KalphalusKal](https://www.github.com/KalphalusKal)
+Kalphalus is a WiP Tech Startup thing run by [@KalphalusKal](https://www.github.com/KalphalusKal)
