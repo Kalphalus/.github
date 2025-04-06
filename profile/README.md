@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/Kalphalus/.github/blob/32aace788869e751c5b140547d075266fdc03d36/profile/assets/KALPHALUS.png?raw=true" height="20%" width="20%">
+    <img src="https://raw.githubusercontent.com/Kalphalus/.github/b5d7aa9ff559551d667678650a05ddf1be690078/profile/assets/KALPHALUS.png" height="20%" width="20%">
 
   <h1>Kalphalus</h1>
 </div>
