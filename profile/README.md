@@ -9,3 +9,5 @@ Kalphalus is a WiP Tech Startup thing run by [@KalphalusKal](https://www.github.
 For now we are just doing small projects like a Music Player.
 
 Our goal is to offer the best options for what we offer
+
+Anything that starts free stays free
